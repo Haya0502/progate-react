@@ -1,1 +1,1 @@
-I create the web site with React in progate.
+I created the web site with React in progate.
